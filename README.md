@@ -6,4 +6,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENCE) file 
 
 https://github.com/Darlen610/Deep-Learning-Model
 
-PhD_Model.ipynb
